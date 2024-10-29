@@ -1,2 +1,2 @@
 # BlogApp
-# Blog
+# This is a simple blogging website  
